@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\migrations\\20240725235106_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\migrations\\20240725235106_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|c:\\users\\repco\\source\\repos\\minisuper\\minisuperback\\sysminisuperwebapi\\controllers\\detalle_ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F1FA4-79F5-480D-BA9B-DCE881CDB249}|SysMiniSuperWebAPI\\SysMiniSuperWebAPI.csproj|solutionrelative:sysminisuperwebapi\\controllers\\detalle_ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\appsettings.json",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T23:51:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Program.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:51:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240725235106_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Migrations\\20240725235106_Inicial.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Migrations\\20240725235106_Inicial.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Migrations\\20240725235106_Inicial.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Migrations\\20240725235106_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:51:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\VentasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:50:14.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolsController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\RolsController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\RolsController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\RolsController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\RolsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:49:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\ProveedorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:47:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:46:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoesController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\EmpleadoesController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\EmpleadoesController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\EmpleadoesController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\EmpleadoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:45:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detalle_VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\Detalle_VentaController.cs",
+              "RelativeDocumentMoniker": "SysMiniSuperWebAPI\\Controllers\\Detalle_VentaController.cs",
+              "ToolTip": "C:\\Users\\repco\\source\\repos\\MiniSuper\\MiniSuperBack\\SysMiniSuperWebAPI\\Controllers\\Detalle_VentaController.cs",
+              "RelativeToolTip": "SysMiniSuperWebAPI\\Controllers\\Detalle_VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:43:38.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
